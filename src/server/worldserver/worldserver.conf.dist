@@ -1,5 +1,5 @@
 ################################################
-# Trinity Core World Server configuration file #
+# PandariaEMU World Server configuration file  #
 ################################################
 [worldserver]
 
@@ -735,9 +735,9 @@ SkipCinematics = 0
 #        Description: Maximum level that can be reached by players.
 #        Important:   Levels beyond 100 are not recommended at all.
 #        Range:       1-255
-#        Default:     85
+#        Default:     90
 
-MaxPlayerLevel = 85
+MaxPlayerLevel = 90
 
 #
 #    MinDualSpecLevel
